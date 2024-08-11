@@ -1,2 +1,3 @@
-# 100_de_C
+ # 100_de_C
  exercicios de C e git/github
+ commit 
