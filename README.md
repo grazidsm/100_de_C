@@ -1,3 +1,2 @@
- # 100_de_C
- exercicios de C e git/github
- commit 
+ Teste de git e github, curso em vídeo.
+ Commit
